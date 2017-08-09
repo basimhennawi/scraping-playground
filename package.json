@@ -1,0 +1,11 @@
+{
+    "name": "scraping-playground",
+    "version": "1.0.0",
+    "description": "Playing with scraping.",
+    "keywords": ["scraping", "casperjs"],
+    "repository": "https://github.com/basimhennawi/scraping-playground.git",
+    "author": "Basim Hennawi <basim.a.hennawi@gmail.com>",
+    "dependencies": {
+        "casperjs": "1.1.4"
+    }
+}
